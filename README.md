@@ -22,4 +22,4 @@ Aplikasi sederhana untuk mengecek kondisi cuaca di berbagai lokasi secara real-t
 2. **Buka file `index.html` di browser favoritmu**. 🌟  
 3. Masukkan nama kota pada kolom pencarian, lalu tekan tombol **Cari**. 🔍  
 
-
+> Amrullah Azzaky
