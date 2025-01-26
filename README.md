@@ -12,9 +12,10 @@ Aplikasi sederhana untuk mengecek kondisi cuaca di berbagai lokasi secara real-t
 - **HTML5**: Struktur halaman.  
 - **CSS3**: Styling responsif yang elegan.  
 - **JavaScript**: Logika interaktif untuk pengambilan data cuaca.  
-- **OpenWeather API**: Sumber data cuaca real-time. 🌐  
-
-## Cara Menggunakan
+- **OpenWeather API**: Sumber data cuaca real-time. 🌐
+  
+## Cara Instalasi/Penggunaan  
+💻 **Langkah-langkah instalasi:**  
 1. **Clone repositori**:  
 ```bash
 git clone https://github.com/clarck77/WeatherAppSederhana.git
