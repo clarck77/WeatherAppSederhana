@@ -18,7 +18,7 @@ Aplikasi sederhana untuk mengecek kondisi cuaca di berbagai lokasi secara real-t
 ## 📦 Cara Menggunakan
 1. **Clone repositori**:  
    ```bash
-   git clone 
+   git clone https://github.com/clarck77/WeatherAppSederhana.git
    ```
 2. **Buka file `index.html` di browser favoritmu**. 🌟  
 3. Masukkan nama kota pada kolom pencarian, lalu tekan tombol **Cari**. 🔍  
