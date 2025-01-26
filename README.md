@@ -7,7 +7,6 @@ Aplikasi sederhana untuk mengecek kondisi cuaca di berbagai lokasi secara real-t
 - 🔍 **Cari Cuaca**: Masukkan nama kota untuk mendapatkan informasi cuaca terkini.  
 - 🌡️ **Data Akurat**: Informasi suhu, kelembapan, kecepatan angin, dan kondisi langit.  
 - 🗺️ **Lokasi Global**: Dukung pencarian cuaca untuk kota-kota di seluruh dunia.  
-- 🎨 **UI Interaktif**: Tampilan minimalis dan ramah pengguna.  
 
 ## 🛠️ Teknologi yang Digunakan
 - **HTML5**: Struktur halaman.  
