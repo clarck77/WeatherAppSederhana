@@ -23,7 +23,11 @@ git clone https://github.com/clarck77/WeatherAppSederhana.git
 2. Masuk ke dalam folder proyek:  
 ```bash
 cd WeatherAppSederhana
-```  
+```
+3. Masuk ke kode editor / IDE :
+```bash
+code. 
+```
 4. **Buka file `index.html` di browser favoritmu**. 🌟  
 5. Masukkan nama kota pada kolom pencarian, lalu tekan tombol **Cari**. 🔍  
 
