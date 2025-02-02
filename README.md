@@ -24,8 +24,8 @@ git clone https://github.com/clarck77/WeatherAppSederhana.git
 ```bash
 cd WeatherAppSederhana
 ```  
-3. **Buka file `index.html` di browser favoritmu**. 🌟  
-4. Masukkan nama kota pada kolom pencarian, lalu tekan tombol **Cari**. 🔍  
+4. **Buka file `index.html` di browser favoritmu**. 🌟  
+5. Masukkan nama kota pada kolom pencarian, lalu tekan tombol **Cari**. 🔍  
 
 ## Lisensi  
 📝 Proyek ini tidak dilisensikan.  
