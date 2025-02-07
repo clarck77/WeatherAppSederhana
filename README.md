@@ -31,6 +31,17 @@ code.
 4. **Buka file `index.html` di browser favoritmu**. 🌟  
 5. Masukkan nama kota pada kolom pencarian, lalu tekan tombol **Cari**. 🔍  
 
+## 📂 Struktur Folder  
+
+```
+📁 /WeatherAppSederhana/
+ ├── Ico
+ ├── ├── pict1.png     # Icon website
+ ├──  index.html       # Halaman utama
+ ├──  style.css        # Styling tampilan
+ └──  script.js        # Logika weather app
+```
+
 ## Lisensi  
 📝 Proyek ini tidak dilisensikan.  
 
