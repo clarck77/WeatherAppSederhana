@@ -39,7 +39,7 @@ code.
  ├── ├── pict1.png     # Icon website
  ├──  index.html       # Halaman utama
  ├──  style.css        # Styling tampilan
- └──  script.js        # Logika weather app
+ ├──  script.js        # Logika weather app
  └── README.md
 ```
 
