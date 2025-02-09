@@ -40,6 +40,7 @@ code.
  ├──  index.html       # Halaman utama
  ├──  style.css        # Styling tampilan
  └──  script.js        # Logika weather app
+ └── README.md
 ```
 
 ## Lisensi  
